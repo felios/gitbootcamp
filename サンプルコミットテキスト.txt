@@ -4,6 +4,4 @@ Githubを利用するための、サンプルテキストファイルです。
 
 function{
 	test();
-	test2();
-
 }
